@@ -73,10 +73,10 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧 ᴏᴡɴᴇꝛ 🫧", url=f"https://t.me/ll_ISTKHAR_BABY_lll"
+                text="🫧 ᴏᴡɴᴇꝛ 🫧", url=f"https://t.me/ll_Rajput_boy_ll"
             ),
             InlineKeyboardButton(
-                text="🍬 sᴜᴘᴘᴏꝛᴛ 🍬", url=f"https://t.me/+pnDJxCG5VVphMTVl"
+                text="🍬 sᴜᴘᴘᴏꝛᴛ 🍬", url=f"https://t.me/UtkarshQuizr"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
